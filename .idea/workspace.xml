@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d9000d96-244f-4ddb-bcbc-220ec3093918" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/app/Http/Livewire/HelloWorld.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Livewire/HelloWorld.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/livewire/hello-world.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/livewire/hello-world.blade.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/resources/views/welcome.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/welcome.blade.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -21,39 +23,26 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/resources/views/welcome.blade.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="442">
-              <caret line="23" column="205" selection-start-line="23" selection-start-column="205" selection-end-line="23" selection-end-column="205" />
+            <state relative-caret-position="204">
+              <caret line="16" column="31" lean-forward="true" selection-start-line="16" selection-start-column="2" selection-end-line="16" selection-end-column="31" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/Http/Livewire/CreateCv.php">
+        <entry file="file://$PROJECT_DIR$/resources/views/livewire/hello-world.blade.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="510">
-              <caret line="15" column="18" selection-start-line="15" selection-start-column="18" selection-end-line="15" selection-end-column="18" />
+            <state relative-caret-position="442">
+              <caret line="17" column="17" selection-start-line="17" selection-start-column="17" selection-end-line="17" selection-end-column="17" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/resources/views/livewire/create-cv.blade.php">
+        <entry file="file://$PROJECT_DIR$/app/Http/Livewire/HelloWorld.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="286">
-              <caret line="73" column="56" selection-start-line="73" selection-start-column="56" selection-end-line="73" selection-end-column="56" />
-              <folding>
-                <element signature="n#style#0;n#h4#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#div#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#h4#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#span#0;n#h5#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#span#0;n#h5#1;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#span#0;n#h5#2;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#span#0;n#h5#3;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#span#0;n#h5#4;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#span#0;n#h5#5;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#i#0;n#h5#6;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#i#1;n#h5#6;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#!!top" expanded="true" />
-              </folding>
+            <state relative-caret-position="442">
+              <caret line="13" column="29" lean-forward="true" selection-start-line="13" selection-start-column="29" selection-end-line="13" selection-end-column="29" />
             </state>
           </provider>
         </entry>
@@ -66,11 +55,11 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/app/Http/Livewire/HelloWorld.php" />
-        <option value="$PROJECT_DIR$/resources/views/livewire/hello-world.blade.php" />
-        <option value="$PROJECT_DIR$/resources/views/welcome.blade.php" />
         <option value="$PROJECT_DIR$/app/Http/Livewire/CreateCv.php" />
         <option value="$PROJECT_DIR$/resources/views/livewire/create-cv.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/welcome.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/livewire/hello-world.blade.php" />
+        <option value="$PROJECT_DIR$/app/Http/Livewire/HelloWorld.php" />
       </list>
     </option>
   </component>
@@ -288,12 +277,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1624597023318</updated>
-      <workItem from="1624597027587" duration="6377000" />
+      <workItem from="1624597027587" duration="7352000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6377000" />
+    <option name="totallyTimeSpent" value="7352000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="848" extended-state="6" />
@@ -304,7 +293,7 @@
       <window_info id="UI Designer" />
       <window_info id="Capture Tool" />
       <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" />
@@ -334,42 +323,10 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/resources/views/livewire/hello-world.blade.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="7" column="43" lean-forward="true" selection-start-line="7" selection-start-column="43" selection-end-line="7" selection-end-column="43" />
-          <folding>
-            <element signature="n#style#0;n#i#0;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#i#1;n#div#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/Http/Livewire/HelloWorld.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="11" column="27" selection-start-line="11" selection-start-column="27" selection-end-line="11" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resources/views/welcome.blade.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
-          <caret line="23" column="205" selection-start-line="23" selection-start-column="205" selection-end-line="23" selection-end-column="205" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/Http/Livewire/CreateCv.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
-          <caret line="15" column="18" selection-start-line="15" selection-start-column="18" selection-end-line="15" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/resources/views/livewire/create-cv.blade.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="73" column="56" selection-start-line="73" selection-start-column="56" selection-end-line="73" selection-end-column="56" />
+        <state relative-caret-position="490">
+          <caret line="79" column="7" lean-forward="true" selection-start-line="79" selection-start-column="7" selection-end-line="79" selection-end-column="7" />
           <folding>
             <element signature="n#style#0;n#h4#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#div#0;n#!!top" expanded="true" />
@@ -383,6 +340,34 @@
             <element signature="n#style#0;n#i#0;n#h5#6;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#i#1;n#h5#6;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#!!top" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Livewire/CreateCv.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="15" column="18" selection-start-line="15" selection-start-column="18" selection-end-line="15" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/welcome.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="16" column="31" lean-forward="true" selection-start-line="16" selection-start-column="2" selection-end-line="16" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/livewire/hello-world.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="17" column="17" selection-start-line="17" selection-start-column="17" selection-end-line="17" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Livewire/HelloWorld.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="13" column="29" lean-forward="true" selection-start-line="13" selection-start-column="29" selection-end-line="13" selection-end-column="29" />
         </state>
       </provider>
     </entry>
