@@ -8,6 +8,7 @@ use Livewire\Component;
 class HelloWorld extends Component
 {
     public $contacts;
+
     public function mount(){
       $this->contacts =contact::all();
     }

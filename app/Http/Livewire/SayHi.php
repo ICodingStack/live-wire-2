@@ -8,6 +8,10 @@ use Livewire\Component;
 class SayHi extends Component
 {
    public $contact;
+    protected  $listeners = ['refreshChildern'=>'refresh'];
+    public function refresh(){
+        dd('foo');
+    }
    public function mount(contact $contact){
        $this->contact =$contact;
    }

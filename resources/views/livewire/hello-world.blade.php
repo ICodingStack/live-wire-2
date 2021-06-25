@@ -31,4 +31,6 @@
             <button wire:click="remove('{{$contact->name}}')">remove</button>
         </div>
        @endforeach
+    <hr>
+    {{now()}} <button wire:click="$emit('refreshChildern')">refresh childreen</button>
 </div>
