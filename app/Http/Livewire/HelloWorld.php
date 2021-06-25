@@ -10,6 +10,12 @@ class HelloWorld extends Component
     public $last ="Meri";
     public $loud =false;
     public $gretting =["hi"];
+    public function mount(){
+        $this->name ="Chigo";
+    }
+    public function updatedName(){
+        $this->name=strtoupper($this->name);
+    }
 //    public function resetName($name = 'bingo'){
 //        $this->name =$name;
 //    }

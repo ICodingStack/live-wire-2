@@ -14,9 +14,9 @@
     </head>
     <body>
 
-{{--       @livewire('hello-world')--}}
+       @livewire('hello-world')
 {{--    @livewire('create-cv')--}}
-     @livewire('form-actions')
+{{--     @livewire('form-actions')--}}
 
     @livewireScripts
 

@@ -9,7 +9,7 @@
         <option>hello</option>
         <option>GoodBye</option>
     </select>
-     {{implode(', ',$gretting)}} {{strtoupper($name)}} @if($loud) <i class="fa fa-check" style="color: green;"></i>  @else <i style="color: red;" class="fa fa-times"></i>  @endif
+     {{implode(', ',$gretting)}} {{$name}} @if($loud) <i class="fa fa-check" style="color: green;"></i>  @else <i style="color: red;" class="fa fa-times"></i>  @endif
    {{--   $event.target.innerText it mean change the name into button name  --}}
 {{--  for wire:submit must add submit.prevent to work --}}
 {{--    <form action="#" wire:submit.prevent="resetName('bingo')">--}}
